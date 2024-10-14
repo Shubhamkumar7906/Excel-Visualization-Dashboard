@@ -1,4 +1,4 @@
-Data Analysis and Visualization:
+*Data Analysis and Visualization:
 Proficient in data visualization tools
 Ability to interpret complex data
 
